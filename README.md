@@ -8,7 +8,7 @@ Documentation of a 3-day legacy OpenText Alchemy stabilization project (Dec 2024
 - **Project Name**: OpenText Alchemy Stabilization and Upgrade  
 - **Project Duration**: December 2–4, 2024 (3 days)  
 - **Project Owner/Author**: Charlie Hofner
-- [](https://www.linkedin.com/in/charliehofner)  
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/charlie-hofner/)  
 - **Project Sponsor/Stakeholder**: Finance/Operations Director, Accounts Payable Team  
 
 **Overview**  
