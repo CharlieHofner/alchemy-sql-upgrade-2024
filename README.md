@@ -122,7 +122,7 @@ The system served as a central archive linking:
 5. Verify SQL services
 6. Test Alchemy Admin Console login and core functions
 7. Staff verification
-8. Commit snapshot
+8. Remove snapshot
 
 ---
 **Author**: Charlie Hofner – IT Professional | Legacy System Rescuer | Security-Minded Problem Solver  
